@@ -1,6 +1,6 @@
 # James McFarland
 
-![alumni of](https://img.shields.io/badge/studying_at-qub-red)   ![grade](https://img.shields.io/badge/1st_class-blue)  ![associate engineer at](https://img.shields.io/badge/liberty_IT-yellow)
+![alumni of](https://img.shields.io/badge/alumni_of-qub-red)   ![grade](https://img.shields.io/badge/grade-1st_class-blue)  ![associate engineer at](https://img.shields.io/badge/associate_engineer_at-liberty_IT-yellow)
 
 
 I've loved building since I was young, starting off with the Lego Duplo sets, moving up through the fancier Technic ones, to today, where I build whatever I want.
